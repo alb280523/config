@@ -1,0 +1,52 @@
+{
+  "Contracts": {
+    "Unitroller": "0x76Bc54B00B28097c0CDA99d45aE48256B574D189 ",
+    "Comptroller": "0x76Bc54B00B28097c0CDA99d45aE48256B574D189 ",
+  },
+  "PriceOracleProxy": {
+    "description": "Price Oracle Proxy",
+    "PPls": "0x534a4CF2D1E29E235C175a7A99cF7B26e6F9B578 ",
+    "PDai": "0x22163AFb7a704CC4AfcDB5776a948299C3981Ee2",
+    "address": "0x4847D519Ab3a1b39B66E15d0F7beB7879f2927F6"
+  },
+  "Unitroller": {
+    "description": "Unitroller",
+    "address": "0x76Bc54B00B28097c0CDA99d45aE48256B574D189 "
+  },
+  "Tokens": {
+    "WPLS": {
+      "address": "0x70499adEBB11Efd915E3b69E700c331778628707",
+      "contract": "Wrapped Pulse",
+      "decimals": 18,
+      "name": "Wrapped Pulse",
+      "symbol": " WPLS"
+    },
+    "tDAI": {
+      "address": "0x826e4e896CC2f5B371Cd7Bb0bd929DB3e3DB67c0",
+      "contract": "DAI Mock from Sepolia",
+      "decimals": 18,
+      "name": "DAI Mock from Sepolia",
+      "symbol": "tDAI"
+    }
+  },
+  "cTokens": {
+    "PPls": {
+      "address": "0x534a4CF2D1E29E235C175a7A99cF7B26e6F9B578",
+      "contract": "CEther",
+      "decimals": 18,
+      "initial_exchange_rate_mantissa": "1000000000000000000",
+      "name": "Pulselend Wrapped Pulse",
+      "symbol": "PPls",
+      "underlying": "0x70499adEBB11Efd915E3b69E700c331778628707"
+    },
+    "PDai": {
+      "address": "0x22163AFb7a704CC4AfcDB5776a948299C3981Ee2",
+      "contract": "CErc20Delegator",
+      "decimals": 18,
+      "initial_exchange_rate_mantissa": "1000000000000000000",
+      "name": "Pulselend tDai",
+      "symbol": "PDai",
+      "underlying": "0x826e4e896CC2f5B371Cd7Bb0bd929DB3e3DB67c0"
+    }
+  }
+}
