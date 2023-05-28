@@ -1,7 +1,7 @@
 {
   "Contracts": {
     "Unitroller": "0x76Bc54B00B28097c0CDA99d45aE48256B574D189 ",
-    "Comptroller": "0x76Bc54B00B28097c0CDA99d45aE48256B574D189 ",
+    "Comptroller": "0x76Bc54B00B28097c0CDA99d45aE48256B574D189 "
   },
   "PriceOracleProxy": {
     "description": "Price Oracle Proxy",
