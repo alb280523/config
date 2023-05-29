@@ -1,8 +1,8 @@
 {
   "Contracts": {
     "CompoundLens": "0x04EC9f6Ce8ca39Ee5c7ADE95C69e38ddcaA8CbB7",
-    "Unitroller": "0x3cBe63aAcF6A064D32072a630A3eab7545C54d78",
-    "Comptroller": "0x3cBe63aAcF6A064D32072a630A3eab7545C54d78",
+    "Unitroller": "0x76Bc54B00B28097c0CDA99d45aE48256B574D189",
+    "Comptroller": "0x76Bc54B00B28097c0CDA99d45aE48256B574D189",
     "ComptrollerImplementation": "0x05Df6C772A563FfB37fD3E04C1A279Fb30228621",
     "Fauceteer": "0x75442Ac771a7243433e033F3F8EaB2631e22938f",
     "GovernorBravo": "0xa3FbaE9180a3c835C1F8688383989bB5558245d3",
